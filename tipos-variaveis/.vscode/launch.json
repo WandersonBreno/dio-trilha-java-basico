@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "booleanos",
+            "request": "launch",
+            "mainClass": "booleanos",
+            "projectName": "tipos-variaveis_f6a02f94"
+        },
+        {
+            "type": "java",
+            "name": "repeticao",
+            "request": "launch",
+            "mainClass": "repeticao",
+            "projectName": "tipos-variaveis_f6a02f94"
+        },
+        {
+            "type": "java",
+            "name": "operadorUnario",
+            "request": "launch",
+            "mainClass": "operadorUnario",
+            "projectName": "tipos-variaveis_f6a02f94"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
