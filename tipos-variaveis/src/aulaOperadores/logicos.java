@@ -1,3 +1,4 @@
+package aulaOperadores;
 public class logicos {
 
     public static void main(String[] args) {

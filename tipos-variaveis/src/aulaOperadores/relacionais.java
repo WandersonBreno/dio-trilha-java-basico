@@ -1,3 +1,4 @@
+package aulaOperadores;
 public class relacionais {
     public static void main(String[] args) {
         String nomeUm = "WANDERSON";

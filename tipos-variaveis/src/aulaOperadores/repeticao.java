@@ -1,3 +1,4 @@
+package aulaOperadores;
 public class repeticao {
 
     public static void main (String [] args){

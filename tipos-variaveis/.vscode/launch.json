@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "aulaMetodos.Usuario",
+            "projectName": "tipos-variaveis_f6a02f94"
+        },
+        {
+            "type": "java",
             "name": "logicos",
             "request": "launch",
             "mainClass": "logicos",
