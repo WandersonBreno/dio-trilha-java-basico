@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "logicos",
+            "request": "launch",
+            "mainClass": "logicos",
+            "projectName": "tipos-variaveis_f6a02f94"
+        },
+        {
+            "type": "java",
+            "name": "relacionais",
+            "request": "launch",
+            "mainClass": "relacionais",
+            "projectName": "tipos-variaveis_f6a02f94"
+        },
+        {
+            "type": "java",
+            "name": "ternario",
+            "request": "launch",
+            "mainClass": "ternario",
+            "projectName": "tipos-variaveis_f6a02f94"
+        },
+        {
+            "type": "java",
+            "name": "condicional",
+            "request": "launch",
+            "mainClass": "condicional",
+            "projectName": "tipos-variaveis_f6a02f94"
+        },
+        {
+            "type": "java",
             "name": "booleanos",
             "request": "launch",
             "mainClass": "booleanos",
